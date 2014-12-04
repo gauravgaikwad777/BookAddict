@@ -7,4 +7,4 @@ Functional methods include searching books, managing to read and favourites list
 
 Account management methods include: register, login, manage/ delete profile, change password
 
-Administrator methods include: Get Logs, update user details/ type, and restricting user
+Administrator methods include: get logs, update user details/ type, and restricting user
